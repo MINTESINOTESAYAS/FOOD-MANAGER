@@ -13,3 +13,6 @@ node_modules/
 # OS / editor
 .DS_Store
 Thumbs.db
+
+# Local design-reference downloads, not shipped app assets
+/image-search/
